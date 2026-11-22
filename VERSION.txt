@@ -1,3 +1,3 @@
 FIU Delivery Tracker frontend
-Source commit: 3df8e2e (v1.7-108-g3df8e2e)
-Built: 2026-11-22 07:23 EET
+Source commit: 77ad425 (v1.7-110-g77ad425)
+Built: 2026-11-22 07:54 EET
